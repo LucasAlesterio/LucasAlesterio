@@ -1,16 +1,15 @@
 # Hi there, I'm Lucas Alesterio
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Alesterio-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasalesterio/)](https://www.linkedin.com/in/lucasalesterio/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Alesterio-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasalesterio/)](https://www.linkedin.com/in/lucasalesterio/)
 [![Gmail Badge](https://img.shields.io/badge/-lucasalesterio22@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasalesterio22@gmail.com)](mailto:lucasalesterio22@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-Lucas%20Alesterio-6633cc?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/22htds5wj4632q2unppjtukei)](https://open.spotify.com/user/22htds5wj4632q2unppjtukei)
-[![Instagram Badge](https://img.shields.io/badge/-@lucas\__alesterio-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lucas_alesterio/)](https://www.instagram.com/lucas_alesterio/) 
+[![Instagram Badge](https://img.shields.io/badge/-@lucas__alesterio-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lucas_alesterio/)](https://www.instagram.com/lucas_alesterio/)
 
 ## I'm a computer engineer student
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React, Node etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-
+-   👨‍💻 I’m currently working on web development technologies like JavaScript, React, Node etc.
+-   📚 I’m currently learning everything about Frontend and Backend technologies.
+-   💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 #### Languages i use:
 
@@ -21,7 +20,6 @@
 ![Python](https://img.shields.io/badge/-Python-050505?style=flat-square&logo=python)
 ![C](https://img.shields.io/badge/-C-050505?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-050505?style=flat-square&logo=c%2B%2B)
-
 
 ##### Some of the technologies i have worked with:
 
@@ -36,3 +34,5 @@
 ![Trello](https://img.shields.io/badge/-Trello-050505?style=flat-square&logo=trello&logoColor=0079BF)
 ![Powershell](http://img.shields.io/badge/-Powershell-050505?style=flat-square&logo=powershell&logoColor=5391FE)
 ![Windows](http://img.shields.io/badge/-Windows-050505?style=flat-square&logo=windows&logoColor=0078D6)
+
+![Snake animation](https://github.com/LucasAlesterio/LucasAlesterio/blob/output/github-contribution-grid-snake.svg)
